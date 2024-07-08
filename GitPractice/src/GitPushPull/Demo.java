@@ -10,4 +10,10 @@ public class Demo {
 	{
 	System.out.println("Method m1");	
 	}
+
+
+	public void m2()
+	{
+		System.out.println("Method m2");
+	}
 }
