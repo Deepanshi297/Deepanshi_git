@@ -5,4 +5,9 @@ public class Demo {
 		System.out.println("Hello world");
 	}
 
+
+	public void m1()
+	{
+	System.out.println("Method m1");	
+	}
 }
