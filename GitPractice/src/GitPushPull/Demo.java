@@ -16,4 +16,9 @@ public class Demo {
 	{
 		System.out.println("Method m2");
 	}
+
+	public void m3()
+	{
+		System.out.println("Method m2");
+	}
 }
